@@ -1,6 +1,6 @@
 from django.db import models
 
-# pzdsx
+# pzdsxkkkkkkddd
 class Cashbox(models.Model):
     name = models.CharField(max_length=255)
 
