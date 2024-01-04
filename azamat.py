@@ -1,6 +1,6 @@
 from django.db import models
 
-# pzdc1
+# pzdc2 isp
 
 class Cashbox(models.Model):
     name = models.CharField(max_length=255)
