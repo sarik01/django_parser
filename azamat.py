@@ -1,6 +1,6 @@
 from django.db import models
 
-# pzdc2 ispsss
+# blya
 
 class Cashbox(models.Model):
     name = models.CharField(max_length=255)
